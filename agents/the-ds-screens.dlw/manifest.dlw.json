@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Two Screens",
+  "universe": "DS · The Two Screens (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Two Screens:DS:10ca89⟧",
+  "carbon": "the-ds-screens.carbon.tiff (TIFF)",
+  "silicon": "the-ds-screens.silicon.png (PNG)",
+  "seal_sha256": "93d1cc6fdf2a0b0eb3d7808e2d64dc069a5aaae9d1b81ade3f767d17da04d42b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

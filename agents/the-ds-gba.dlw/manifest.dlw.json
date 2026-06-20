@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The GBA Slot",
+  "universe": "DS · The GBA Slot (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The GBA Slot:DS:7300f7⟧",
+  "carbon": "the-ds-gba.carbon.tiff (TIFF)",
+  "silicon": "the-ds-gba.silicon.png (PNG)",
+  "seal_sha256": "21e3b289d239b67169a65cadfc2c39644a8c2134b785948793d339695b087c3a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

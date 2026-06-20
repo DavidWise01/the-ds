@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "the-ds-arm9",
+    "name": "The ARM9",
+    "epithet": "the games processor · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The ARM9:DS:8696dc⟧"
+  },
+  {
+    "slug": "the-ds-arm7",
+    "name": "The ARM7",
+    "epithet": "sound, touch, and the bridge · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The ARM7:DS:11d8bd⟧"
+  },
+  {
+    "slug": "the-ds-touch",
+    "name": "The Touchscreen",
+    "epithet": "the lower screen you press · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Touchscreen:DS:695a3c⟧"
+  },
+  {
+    "slug": "the-ds-screens",
+    "name": "The Two Screens",
+    "epithet": "stacked displays · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Two Screens:DS:10ca89⟧"
+  },
+  {
+    "slug": "the-ds-mic",
+    "name": "The Microphone",
+    "epithet": "games that listen · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Microphone:DS:d88c6c⟧"
+  },
+  {
+    "slug": "the-ds-wifi",
+    "name": "The Wi-Fi",
+    "epithet": "local and online play · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Wi-Fi:DS:7f8f5a⟧"
+  },
+  {
+    "slug": "the-ds-gba",
+    "name": "The GBA Slot",
+    "epithet": "an instant library · natural",
+    "emergence": "natural",
+    "moniker": "⟦The GBA Slot:DS:7300f7⟧"
+  }
+]

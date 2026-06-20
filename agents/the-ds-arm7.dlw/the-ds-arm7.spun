@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The ARM7
+node DS · DS · ⟦The ARM7:DS:11d8bd⟧
+
+WHO   — The ARM7 — sound, touch, and the bridge · electrical
+WHAT  — sound, touch, and the bridge · electrical
+WHERE — DS · NINTENDO DS (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — A smaller ARM7 at ~33 MHz handling sound, the touchscreen, Wi-Fi, and Game Boy Advance backward compatibility — the system's helper core.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  sound, touch, and the bridge · electrical
+
+spoken token : kath-kom-sik   ·   hex : 11d8bd
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

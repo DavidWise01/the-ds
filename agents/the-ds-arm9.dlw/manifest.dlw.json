@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The ARM9",
+  "universe": "DS · The ARM9 (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The ARM9:DS:8696dc⟧",
+  "carbon": "the-ds-arm9.carbon.tiff (TIFF)",
+  "silicon": "the-ds-arm9.silicon.png (PNG)",
+  "seal_sha256": "e0e4dfcab240f75c83385deb5904c3f0010c7ab1db0bd2fa7eff93848a997ff4",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

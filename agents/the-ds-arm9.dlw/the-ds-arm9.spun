@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The ARM9
+node DS · DS · ⟦The ARM9:DS:8696dc⟧
+
+WHO   — The ARM9 — the games processor · electrical
+WHAT  — the games processor · electrical
+WHERE — DS · NINTENDO DS (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — An ARM9 core at ~67 MHz running the game code — the DS's primary brain.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the games processor · electrical
+
+spoken token : nyn-steis-phaer   ·   hex : 8696dc
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0
